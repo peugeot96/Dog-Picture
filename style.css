@@ -1,0 +1,14 @@
+
+#select{
+
+    max-width: 50%;
+
+}
+
+body{
+    margin: auto;
+
+    background: #f3904f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f3904f, #3b4371); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f3904f, #3b4371);
+}
