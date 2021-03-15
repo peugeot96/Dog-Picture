@@ -91,7 +91,7 @@
             
     
             const data = JSON.parse(this.responseText)
-            console.log(data)
+            
     
             
             let html = `
